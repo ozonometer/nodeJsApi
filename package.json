@@ -1,0 +1,16 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "NodeJs API Restfull service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mykola Gutsaliuk",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.2.1",
+    "restify": "^7.0.0",
+    "restify-validator": "^0.3.1"
+  }
+}
